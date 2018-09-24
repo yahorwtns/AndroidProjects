@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "650371890164",
+    "firebase_url": "https://fitnessclub-badec.firebaseio.com",
+    "project_id": "fitnessclub-badec",
+    "storage_bucket": "fitnessclub-badec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650371890164:android:9078e743871111ff",
+        "android_client_info": {
+          "package_name": "com.example.yahor.fitnessclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650371890164-rcq96fekuuvm24mdjcgm14m30s6525g6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yahor.fitnessclub",
+            "certificate_hash": "e94ab74d240f657b55ad789126fad0300f7a62ba"
+          }
+        },
+        {
+          "client_id": "650371890164-gvtld02926pot678pc1q26i4kvflke3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBYgdyF-LGAf78CCYNvFGvA9KZMwX2QSU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650371890164-gvtld02926pot678pc1q26i4kvflke3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
